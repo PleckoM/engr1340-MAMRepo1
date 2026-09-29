@@ -1,0 +1,5 @@
+The addition of two integers works by taking one integer and increasing it's value by the value of the other integer.
+  EX: 15 + 4, Take the integer 15 and icrease its value 4 times.
+           +1   +2   +3   +4
+      15 → 16 → 17 → 18 → 19
+      15 + 4 = 19
